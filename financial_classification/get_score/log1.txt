@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\tensorflow_classification\get_score\inputfile1\ds=group_1\000009_0
+C:\Users\Administrator\Desktop\tensorflow_classification\get_score\inputfile1\ds=group_2\000000_0

@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\thq_click - 副本\get_score_thq\inputfile\ds=group_1\sample_100
+C:\Users\Administrator\Desktop\thq_click - 副本\get_score_thq\inputfile\ds=group_1\sample_160000_test
+C:\Users\Administrator\Desktop\thq_click - 副本\get_score_thq\inputfile\ds=group_2\sample_160000_test
